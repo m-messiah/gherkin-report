@@ -1,0 +1,2 @@
+feature,scenario,env
+Login,Checking login fields via the header bar for new registration flow,ft-emulator-MOCK
